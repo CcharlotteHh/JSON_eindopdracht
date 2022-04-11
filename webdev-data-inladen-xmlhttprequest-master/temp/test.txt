@@ -1,0 +1,16 @@
+let url = 'https://regres.in/api/users';
+let obj = {mode: 'no-cors', method:'post', headers:{'Content-Type': 'application/json', credentials: 'include'}};
+let request = fetch(url, obj)
+                .then((response) => {
+                    if (response.ok) {
+                        return response.json();
+                    }
+                    throw new Error('Something went wrong');
+                })
+                .then((json) => {
+                    // doe hier iets spannends met de JSON-data
+                    console.log(JSON.stringify(json))
+                  })
+                .catch((error) => {
+                    console.log(error)
+                });

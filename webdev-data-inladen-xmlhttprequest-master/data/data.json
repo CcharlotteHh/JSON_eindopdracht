@@ -1,0 +1,162 @@
+[
+  {
+    "pos": 1,
+    "coureur": "Charles Leclerc",
+    "team": "Ferrari",
+    "tijd": "1:27:46.548",
+    "punten": 26,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 2,
+    "coureur": "Sergio Perez",
+    "team": "Red Bull",
+    "tijd": "+20.524s",
+    "punten": 18,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 3,
+    "coureur": "George Russell",
+    "team": "Mercedes",
+    "tijd": "+25.593s",
+    "punten": 15,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 4,
+    "coureur": "Louis Hamilton",
+    "team": "Mercedes",
+    "tijd": "+28.543s",
+    "punten": 12,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 5,
+    "coureur": "Lando Norris",
+    "team": "McLaren",
+    "tijd": "+53.303s",
+    "punten": 10,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 6,
+    "coureur": "Daniel Ricciardo",
+    "team": "McLaren",
+    "tijd": "+53.737s",
+    "punten": 8,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 7,
+    "coureur": "Esteban Ocon",
+    "team": "Alpine",
+    "tijd": "+61.683s",
+    "punten": 6,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 8,
+    "coureur": "Valtteri Bottas",
+    "team": "Mercedes",
+    "tijd": "+68.439s",
+    "punten": 4,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 9,
+    "coureur": "Pierre Gasly",
+    "team": "Alpha Tauri",
+    "tijd": "+76.221s",
+    "punten": 2,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 10,
+    "coureur": "Alexander Albon",
+    "team": "Williams",
+    "tijd": "+79.382s",
+    "punten": 1,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 11,
+    "coureur": "Guanyu Zhou",
+    "team": "Alfa Romeo",
+    "tijd": "+81.695s",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 12,
+    "coureur": "Lance Stroll",
+    "team": "Aston Martin",
+    "tijd": "+88.598s",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 13,
+    "coureur": "Mick Schumacher",
+    "team": "Haas",
+    "tijd": "+1 ronde",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 14,
+    "coureur": "Kevin Magnussen",
+    "team": "Haas",
+    "tijd": "+1 ronde",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 15,
+    "coureur": "Yuki Tsunoda",
+    "team": "Alpha Tauri",
+    "tijd": "+1 ronde",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 16,
+    "coureur": "Nicolas Latifi",
+    "team": "Williams",
+    "tijd": "+1 ronde",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 17,
+    "coureur": "Fernando Alonso",
+    "team": "Alpine",
+    "tijd": "+1 ronde",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 18,
+    "coureur": "Max Verstappen",
+    "team": "Red Bull",
+    "tijd": "DNF",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 19,
+    "coureur": "Sebastiaan Vettel",
+    "team": "Aston Martin",
+    "tijd": "DNF",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  },
+  {
+    "pos": 20,
+    "coureur": "Carlos Sainz",
+    "team": "Ferrari",
+    "tijd": "DNF",
+    "punten": 0,
+    "afbeelding": "./data/data.png"
+  }
+]
